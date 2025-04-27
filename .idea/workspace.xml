@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d7c224f-cc14-42a5-8f86-3608fbde2e43" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CE_SV$generate_data.coverage" NAME="generate_data Coverage Results" MODIFIED="1638171837551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper$Test.coverage" NAME="Test Coverage Results" MODIFIED="1619691903385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper$Unittests_in_Test_py.coverage" NAME="Unittests in Test.py Coverage Results" MODIFIED="1614407898139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper_v1$generate_data__1_.coverage" NAME="generate_data (1) Coverage Results" MODIFIED="1637937728787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Project/华为合作项目/华为机器学习项目/HW_AI_CE" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper$generate_data.coverage" NAME="generate_data Coverage Results" MODIFIED="1614355462180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper_v1$generate_data.coverage" NAME="generate_data Coverage Results" MODIFIED="1637943541229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CE_SV$Test.coverage" NAME="Test Coverage Results" MODIFIED="1638204303952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper_v1$Test.coverage" NAME="Test Coverage Results" MODIFIED="1638112362604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper_v1$Runner_P128.coverage" NAME="Runner_P128 Coverage Results" MODIFIED="1637927634353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Source_Codes_for_DML_paper_v1$uuu.coverage" NAME="uuu Coverage Results" MODIFIED="1637928271605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="generate_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generate_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2412">
+              <caret line="249" column="25" lean-forward="false" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#141#451#0" expanded="false" />
+                <element signature="e#491#1699#0" expanded="false" />
+                <element signature="e#868#1699#0" expanded="false" />
+                <element signature="e#1735#2883#0" expanded="false" />
+                <element signature="e#2945#3045#0" expanded="false" />
+                <element signature="e#3130#3277#0" expanded="false" />
+                <element signature="e#3396#3589#0" expanded="false" />
+                <element signature="e#3686#4513#0" expanded="false" />
+                <element signature="e#4606#5175#0" expanded="false" />
+                <element signature="e#5253#5787#0" expanded="false" />
+                <element signature="e#5871#6687#0" expanded="false" />
+                <element signature="e#6722#7187#0" expanded="false" />
+                <element signature="e#7237#7838#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runner_P128.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5292">
+              <caret line="913" column="0" lean-forward="false" selection-start-line="913" selection-start-column="0" selection-end-line="913" selection-end-column="0" />
+              <folding>
+                <element signature="e#63#75#0" expanded="true" />
+                <element signature="e#828#1112#0" expanded="false" />
+                <element signature="e#1170#2420#0" expanded="false" />
+                <element signature="e#2475#3555#0" expanded="false" />
+                <element signature="e#3618#4180#0" expanded="false" />
+                <element signature="e#4236#4718#0" expanded="false" />
+                <element signature="e#8227#11689#0" expanded="false" />
+                <element signature="e#11738#15203#0" expanded="false" />
+                <element signature="e#15246#19256#0" expanded="false" />
+                <element signature="e#19329#19918#0" expanded="false" />
+                <element signature="e#19984#20492#0" expanded="false" />
+                <element signature="e#20543#27817#0" expanded="false" />
+                <element signature="e#20804#21025#0" expanded="false" />
+                <element signature="e#21052#21152#0" expanded="false" />
+                <element signature="e#27872#28235#0" expanded="false" />
+                <element signature="e#28294#28610#0" expanded="false" />
+                <element signature="e#28652#32159#0" expanded="false" />
+                <element signature="e#32200#38327#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uuu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uuu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>best</find>
+      <find>==self.n</find>
+      <find>Hperfect_list_HDCE</find>
+      <find>nmse_FullHDCE</find>
+      <find>checkpoints</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>nmse_SDCE</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Runner_P64.py" />
+        <option value="$PROJECT_DIR$/Estimators.py" />
+        <option value="$PROJECT_DIR$/uuu.py" />
+        <option value="$PROJECT_DIR$/Runner_P128.py" />
+        <option value="$PROJECT_DIR$/generate_data.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="2586" />
+    <option name="height" value="1546" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Source Codes for DML paper-v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Source Codes for DML paper-v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Source Codes for DML paper-v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Source Codes for DML paper-v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="available_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/!  Research/Source Codes for DML paper/Runner_P128.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\!  Research\Source Codes for DML paper" />
+      <recent name="E:\!  Research\Source Codes for DML paper\available_data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Test">
+    <configuration default="false" name="generate_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Runner_P128" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Runner_P128.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="uuu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uuu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="generate_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/Project/华为合作项目/华为机器学习项目/HW_AI_CE" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/Project/华为合作项目/华为机器学习项目/HW_AI_CE/generate_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Source Codes for DML paper" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Source Codes for DML paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.generate_data" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Runner_P128" />
+      <item index="3" class="java.lang.String" itemvalue="Python.uuu" />
+      <item index="4" class="java.lang.String" itemvalue="Python.generate_data (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.generate_data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.generate_data (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.uuu" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Runner_P128" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d7c224f-cc14-42a5-8f86-3608fbde2e43" name="Default" comment="" />
+      <created>1614320749611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614320749611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Test_py - 2021.02.27 at 14h 38m 19s.xml">
+      <configuration name="Unittests in Test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="-13" width="2586" height="1546" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2391129" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51545596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46905768" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3794436" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998455" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Runner_P64.py</url>
+          <line>734</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Runner_P128.py</url>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="46" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="74" column="38" lean-forward="false" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="850" column="0" lean-forward="false" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4644">
+          <caret line="828" column="43" lean-forward="true" selection-start-line="828" selection-start-column="43" selection-end-line="828" selection-end-column="43" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="850" column="0" lean-forward="false" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="855" column="20" lean-forward="false" selection-start-line="855" selection-start-column="20" selection-end-line="855" selection-end-column="20" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22860">
+          <caret line="643" column="22" lean-forward="false" selection-start-line="643" selection-start-column="22" selection-end-line="643" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="850" column="0" lean-forward="false" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="855" column="20" lean-forward="false" selection-start-line="855" selection-start-column="20" selection-end-line="855" selection-end-column="20" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14004">
+          <caret line="643" column="22" lean-forward="false" selection-start-line="643" selection-start-column="22" selection-end-line="643" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="850" column="0" lean-forward="false" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="855" column="20" lean-forward="false" selection-start-line="855" selection-start-column="20" selection-end-line="855" selection-end-column="20" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14004">
+          <caret line="643" column="22" lean-forward="false" selection-start-line="643" selection-start-column="22" selection-end-line="643" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="850" column="0" lean-forward="false" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="855" column="20" lean-forward="false" selection-start-line="855" selection-start-column="20" selection-end-line="855" selection-end-column="20" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14004">
+          <caret line="643" column="22" lean-forward="false" selection-start-line="643" selection-start-column="22" selection-end-line="643" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3888">
+          <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="850" column="0" lean-forward="true" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="855" column="20" lean-forward="false" selection-start-line="855" selection-start-column="20" selection-end-line="855" selection-end-column="20" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14004">
+          <caret line="643" column="22" lean-forward="true" selection-start-line="643" selection-start-column="22" selection-end-line="643" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="243" column="0" lean-forward="false" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="855" column="20" lean-forward="false" selection-start-line="855" selection-start-column="20" selection-end-line="855" selection-end-column="20" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13860">
+          <caret line="639" column="23" lean-forward="true" selection-start-line="639" selection-start-column="23" selection-end-line="639" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6948">
+          <caret line="524" column="86" lean-forward="true" selection-start-line="524" selection-start-column="75" selection-end-line="524" selection-end-column="88" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="194" column="10" lean-forward="false" selection-start-line="194" selection-start-column="10" selection-end-line="194" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="867" column="28" lean-forward="true" selection-start-line="867" selection-start-column="28" selection-end-line="867" selection-end-column="28" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6264">
+          <caret line="873" column="25" lean-forward="true" selection-start-line="873" selection-start-column="25" selection-end-line="873" selection-end-column="25" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="608" column="19" lean-forward="true" selection-start-line="608" selection-start-column="19" selection-end-line="608" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1315921440/1507280395/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/available_data/Estimators.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1315921440/-1964600401/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="209" column="0" lean-forward="false" selection-start-line="209" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/257325052/-1964600401/torch/utils/data/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="825" column="0" lean-forward="false" selection-start-line="825" selection-start-column="0" selection-end-line="825" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#393#769#0" expanded="false" />
+            <element signature="e#824#1108#0" expanded="false" />
+            <element signature="e#1168#3864#0" expanded="false" />
+            <element signature="e#3919#7191#0" expanded="false" />
+            <element signature="e#7240#11176#0" expanded="false" />
+            <element signature="e#11225#15161#0" expanded="false" />
+            <element signature="e#15210#19146#0" expanded="false" />
+            <element signature="e#19189#25495#0" expanded="false" />
+            <element signature="e#25546#35567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estimators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="101" column="37" lean-forward="true" selection-start-line="101" selection-start-column="37" selection-end-line="101" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+            <element signature="e#134#1285#0" expanded="false" />
+            <element signature="e#1357#2107#0" expanded="false" />
+            <element signature="e#2179#3211#0" expanded="false" />
+            <element signature="e#3279#3439#0" expanded="false" />
+            <element signature="e#3506#4736#0" expanded="false" />
+            <element signature="e#4810#5560#0" expanded="false" />
+            <element signature="e#5634#6709#0" expanded="false" />
+            <element signature="e#6778#6945#0" expanded="false" />
+            <element signature="e#6976#7072#0" expanded="false" />
+            <element signature="e#7106#7256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uuu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/华为合作项目/华为机器学习项目/HW_AI_CE/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15984">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner_P128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5292">
+          <caret line="913" column="0" lean-forward="false" selection-start-line="913" selection-start-column="0" selection-end-line="913" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#75#0" expanded="true" />
+            <element signature="e#828#1112#0" expanded="false" />
+            <element signature="e#1170#2420#0" expanded="false" />
+            <element signature="e#2475#3555#0" expanded="false" />
+            <element signature="e#3618#4180#0" expanded="false" />
+            <element signature="e#4236#4718#0" expanded="false" />
+            <element signature="e#8227#11689#0" expanded="false" />
+            <element signature="e#11738#15203#0" expanded="false" />
+            <element signature="e#15246#19256#0" expanded="false" />
+            <element signature="e#19329#19918#0" expanded="false" />
+            <element signature="e#19984#20492#0" expanded="false" />
+            <element signature="e#20543#27817#0" expanded="false" />
+            <element signature="e#20804#21025#0" expanded="false" />
+            <element signature="e#21052#21152#0" expanded="false" />
+            <element signature="e#27872#28235#0" expanded="false" />
+            <element signature="e#28294#28610#0" expanded="false" />
+            <element signature="e#28652#32159#0" expanded="false" />
+            <element signature="e#32200#38327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2412">
+          <caret line="249" column="25" lean-forward="false" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#141#451#0" expanded="false" />
+            <element signature="e#491#1699#0" expanded="false" />
+            <element signature="e#868#1699#0" expanded="false" />
+            <element signature="e#1735#2883#0" expanded="false" />
+            <element signature="e#2945#3045#0" expanded="false" />
+            <element signature="e#3130#3277#0" expanded="false" />
+            <element signature="e#3396#3589#0" expanded="false" />
+            <element signature="e#3686#4513#0" expanded="false" />
+            <element signature="e#4606#5175#0" expanded="false" />
+            <element signature="e#5253#5787#0" expanded="false" />
+            <element signature="e#5871#6687#0" expanded="false" />
+            <element signature="e#6722#7187#0" expanded="false" />
+            <element signature="e#7237#7838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1638172389793" expanded="true" signature="2595:7949" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

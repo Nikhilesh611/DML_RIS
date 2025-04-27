@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a37915dd-9858-481e-a21f-2ce610314f42" name="DML_CE_V1" url="http://101.6.68.82">
+        <fileTransfer host="101.6.68.82" port="22" rootFolder="/home/weixh" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
