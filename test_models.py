@@ -59,9 +59,8 @@ class model_test():
 
                 for Yp, H_label, H_perfect, indicator in test_loader2:
                     bs = Yp.shape[0]
-                    # 标签 complex--->real
+                    # Convert complex to real by concatenating
                     label_out = indicator.long().to(device)
-                    # 网络输入
                     Yp_input0 = torch.cat([Yp.real, Yp.imag], dim=1).float().to(device)
                     pred_indicator = SC2(Yp_input0.reshape(bs, 2, 16, 8))
                     pred = pred_indicator.argmax(dim=1)
